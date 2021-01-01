@@ -1,16 +1,27 @@
-### Hi there 👋
 
-<!--
-**deepghuge36/deepghuge36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Welcome to my Github page ✨ 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi, I am Dipak Ghuge 👋
+
+## I am a Learner , a gamer, and always learning something about the development technologies and design patterns.
+---
+
+- 🔭 I’m currently working on React repos.
+- 🌱 I’m currently learning Express, Mongoose, MongoDB and Redux
+- ⚡ Fun fact:React Js Allows for Immutability
+
+---
+## Find me on these pages too:
+<ul>
+<li><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji><a href="https://www.linkedin.com/in/munirsyed/">My Linked-In page</a>.</li>
+</ul>
+
+---
+
+
+  ![<Title for your card>](https://github-readme-stats.vercel.app/api?username=deepghuge36&show_icons=true&theme=radical)
+  
+  ---
+ 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepghuge36)
