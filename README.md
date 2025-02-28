@@ -8,7 +8,7 @@
 ---
 
 - 🔭 I’m currently working on React repos.
-- 🌱 I’m currently learning Express, Mongoose, MongoDB and Redux
+- 🌱 I’m currently learning Angular
 - ⚡ Fun fact:React Js Allows for Immutability
 
 ---
