@@ -14,7 +14,7 @@
 ---
 ## Find me on these pages too:
 <ul>
-<li><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji><a href="https://www.linkedin.com/in/munirsyed/">My Linked-In page</a>.</li>
+<li><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji><a href="https://www.linkedin.com/in/deepghuge/">My Linked-In page</a>.</li>
 </ul>
 
 ---
